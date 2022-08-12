@@ -15,4 +15,4 @@ Now Run the "Artenal task.ipynb" file . The camera will open. Now bring bottles 
 The above code will open Camera 
 if You Want to use this algo on any video then chabge the value from 0 to video path
 
-```cap = cv2.VideoCapture("VideoPath"")```
+```cap = cv2.VideoCapture("VideoPath")```
