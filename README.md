@@ -1,4 +1,4 @@
-# Object-detection-and-finding-its-count-in-frame
+# Object-detection-and-tracking and finding total count of target object in video.
 Using open CV find the total count of object (in this code object is  bottle ) in the each frame of video. 
 
 ## Instruction to run code 
