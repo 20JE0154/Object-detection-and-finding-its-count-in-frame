@@ -5,9 +5,10 @@ Using open CV find the total count of object (in this code object is  bottle ) i
 Upload the below  three files in the jupytor notebook
 1. MobileNetSSD_deploy.caffemodel
 2. MobileNetSSD_deploy.prototxt
-3. Artenal task.ipynb
+3. object_detecting and tracking.ipynb
+4.tracker.py 
 
-Now Run the "Artenal task.ipynb" file . The camera will open. Now bring bottles in camera frame the count of bottles per frame and in total will be Visible.
+Now Run the "object_detecting and tracking.ipynb" file . The camera will open. Now bring bottles in camera frame the count of bottles per frame and in total will be Visible.
 
 
 ```cap = cv2.VideoCapture(0) ```
