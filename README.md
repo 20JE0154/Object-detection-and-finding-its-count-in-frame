@@ -6,7 +6,7 @@ Upload the below  three files in the jupytor notebook
 1. MobileNetSSD_deploy.caffemodel
 2. MobileNetSSD_deploy.prototxt
 3. object_detecting and tracking.ipynb
-4.tracker.py 
+4. tracker.py
 
 Now Run the "object_detecting and tracking.ipynb" file . The camera will open. Now bring bottles in camera frame the count of bottles per frame and in total will be Visible.
 
